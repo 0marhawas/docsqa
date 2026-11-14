@@ -1,0 +1,12 @@
+numpy>=1.26
+pyyaml>=6.0
+fastapi>=0.110
+uvicorn>=0.29
+streamlit>=1.33
+
+# Optional, for real semantic search + reranking:
+# sentence-transformers>=3.0
+
+# Optional, pick one LLM provider for generated answers:
+# anthropic>=0.40
+# openai>=1.40
